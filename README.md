@@ -1,3 +1,3 @@
-# CURRENTLY UNWORKED ON, WILL UPDATE IN THE FUTURE WHEN I'LL START SHARING MODELS.
-Sorry for the inconvenience, but currently I am not sharing and model assets. 
-When I will, I'll upload them to here, so you can still follow this page!
+# Krislyz VRCMods - All the assets I uploaded in one place!
+Started working again on converting animations, therefore decided to make this repo active.
+You can download from here directly instead of going to VRCMods.
